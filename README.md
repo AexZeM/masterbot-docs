@@ -12,7 +12,7 @@ This showcase demonstrates my ability to design, architecture, and deploy comple
 
 Although the code is private, the bot actively handles the following complex operations:
 
-* **Live Game Server Synchronization:** Features a built-in Express.js REST API that listens for real-time HTTP POST requests from the game server to update Discord about live player stats, active staff, and current game statics.
+* **Live Game Server Synchronization:** Features a built-in Express.js REST API that listens for real-time HTTP POST requests from the game server to update Discord about live player stats, active staff, and current game statisticcs.
 * **Advanced Registration System:** A fully interactive, button and modal-driven onboarding process that securely logs and manages user data via local databases.
 * **Dynamic Application System:** Allows users to apply for staff or specific roles entirely through Discord UI components. Includes an admin dashboard to review, approve, or reject applications with automated logging.
 * **Dedicated Support Tickets:** A structured ticket management system with customized categories, auto-transcripts, and role-based staff access.
